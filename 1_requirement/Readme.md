@@ -7,11 +7,11 @@ The seat heating system is capable of maintaining of the temperature of seat in 
 * Mostly used in Europen Countries.
 * Low cost.
  # SWOT Analysis
-# Strengths
+## Strengths
 * User friendly.
 * Easy to set the temperature .
 * Low cost
-# Weakness
+## Weakness
 * It is used only in the European countries.
 # Opportunities
 * It can be implementaed along with AC.
