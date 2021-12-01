@@ -7,7 +7,7 @@ The seat heating system is capable of maintaining of the temperature of seat in 
 ## Contributors List and Summary
 |PS no. |  Name   |    Features    |
 |-------|---------|----------------|
-| `99006058` | Bamini Varalaxmi |Temperature of the heater is varied|
+| 40020816 | Ankit kumar |Temperature of the heater is varied|
 
 ## Folder Structure
 Folder                   | Description
@@ -29,3 +29,5 @@ Folder                   | Description
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/542d46fa5ca546f7895af5b17d67d73a)](https://www.codacy.com/gh/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ankitkumar304/M2_EMBEDDED_SEAT_HEATING&amp;utm_campaign=Badge_Grade)
 ## git inspector
 [![GitInspector](https://github.com/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/actions/workflows/gitinspector.yml)
+## linux passing
+[![Linux C/C++ CI](https://github.com/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/actions/workflows/Linux_c-cpp.yml)
