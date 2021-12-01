@@ -13,9 +13,9 @@ The seat heating system is capable of maintaining of the temperature of seat in 
 * Low cost
 ## Weakness
 * It is used only in the European countries.
-# Opportunities
+## Opportunities
 * It can be implementaed along with AC.
-# Threats
+## Threats
 * Not used in average and high temperatures.
 # 4 W's and 1 H
 * What: Heat Monitoring System.
