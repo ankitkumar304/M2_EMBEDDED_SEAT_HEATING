@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: get_cppcheck
+    - name: install cppcheck
       run: sudo apt-get -y install cppcheck
     - name: code Quality
       run: make analysis
