@@ -30,3 +30,4 @@ Folder                   | Description
 [![GitInspector](https://github.com/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/actions/workflows/gitinspector.yml)
 ## linux passing
 [![Linux C/C++ CI](https://github.com/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/actions/workflows/Linux_c-cpp.yml)
+[![Compile-Linux](https://github.com/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/actions/workflows/compile.yml/badge.svg)](https://github.com/ankitkumar304/M2_EMBEDDED_SEAT_HEATING/actions/workflows/compile.yml)
