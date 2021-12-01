@@ -16,8 +16,7 @@ Folder                   | Description
 `2_Architecture`         | Behavioural and Structural UML Diagrams(Both High Level and Low Level)
 `3_Implementation`     | All codes and Simulation
 `4_Testplan`       | Documents with test plans and procedures and Output
-`5_Report`               | Documentation of whole project
-`6_Imanges and Videos`      | Code Execution Images and Videos
+`5_Imanges `      | Code Execution Images and Videos
 
 
 # BADGES
